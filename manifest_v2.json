@@ -27,9 +27,9 @@
   ],
   "downloads": {
     "xmb10": {
-      "version": "0.0.2",
+      "version": "0.0.3",
       "file_name": "downloads/Nixie Tube.bin",
-      "versionCode": 2,
+      "versionCode": 3,
       "updatelogs": [
         {
           "version": "0.0.1",
@@ -38,13 +38,17 @@
         {
           "version": "0.0.2",
           "content": "回退到上一版：上次更新在部分手环 11 上黑屏，先恢复原来的包"
+        },
+        {
+          "version": "0.0.3",
+          "content": "表盘图片换成不压缩的新固件格式：修复首次亮屏卡顿，手环 11 不再黑屏"
         }
       ]
     },
     "xmb10nfc": {
-      "version": "0.0.2",
+      "version": "0.0.3",
       "file_name": "downloads/Nixie Tube.bin",
-      "versionCode": 2,
+      "versionCode": 3,
       "updatelogs": [
         {
           "version": "0.0.1",
@@ -53,13 +57,17 @@
         {
           "version": "0.0.2",
           "content": "回退到上一版：上次更新在部分手环 11 上黑屏，先恢复原来的包"
+        },
+        {
+          "version": "0.0.3",
+          "content": "表盘图片换成不压缩的新固件格式：修复首次亮屏卡顿，手环 11 不再黑屏"
         }
       ]
     },
     "xmb11": {
-      "version": "0.0.2",
+      "version": "0.0.3",
       "file_name": "downloads/Nixie Tube.bin",
-      "versionCode": 2,
+      "versionCode": 3,
       "updatelogs": [
         {
           "version": "0.0.1",
@@ -68,13 +76,17 @@
         {
           "version": "0.0.2",
           "content": "回退到上一版：上次更新在部分手环 11 上黑屏，先恢复原来的包"
+        },
+        {
+          "version": "0.0.3",
+          "content": "表盘图片换成不压缩的新固件格式：修复首次亮屏卡顿，手环 11 不再黑屏"
         }
       ]
     },
     "xmb11nfc": {
-      "version": "0.0.2",
+      "version": "0.0.3",
       "file_name": "downloads/Nixie Tube.bin",
-      "versionCode": 2,
+      "versionCode": 3,
       "updatelogs": [
         {
           "version": "0.0.1",
@@ -83,6 +95,10 @@
         {
           "version": "0.0.2",
           "content": "回退到上一版：上次更新在部分手环 11 上黑屏，先恢复原来的包"
+        },
+        {
+          "version": "0.0.3",
+          "content": "表盘图片换成不压缩的新固件格式：修复首次亮屏卡顿，手环 11 不再黑屏"
         }
       ]
     }
